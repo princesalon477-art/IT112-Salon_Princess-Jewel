@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main() {
+
+    printf("********************************\n");
+    printf("*                              *\n");
+    printf("*   COMPUTER PROGRAMMING 1     *\n");
+    printf("*                              *\n");
+    printf("*      Welcome Student!        *\n");
+    printf("*                              *\n");
+    printf("*   Learn  -  Code  -  Create  *\n");
+    printf("*                              *\n");
+    printf("********************************\n");
+
+    return 0;
+}
